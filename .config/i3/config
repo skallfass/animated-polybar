@@ -1,0 +1,7 @@
+### COPY THIS LINES TO YOUR ORIGINAL CONFIG ###
+
+
+exec_always --no-startup-id ~/.config/i3/scripts/polybar_wrapper launch
+
+# Open options menu
+bindsym $super+BackSpace exec --no-startup-id ~/.config/i3/scripts/polybar_wrapper options
