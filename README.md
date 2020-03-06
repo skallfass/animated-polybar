@@ -11,3 +11,5 @@ maybe you need edit the files.
 ## capture
 ![Launcher](/doc/launcher.png)
 
+## mpd albumart
+![mpd-conky album-art & progres-bar](/doc/mpd-conky.png)
